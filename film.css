@@ -1,0 +1,89 @@
+﻿#menu {
+    width: 400px;
+    padding: 0;
+    margin: 0 auto;
+    display: block;
+    
+}
+nav{
+    border-radius: 400px 60px;
+    background-color: darkslategrey;
+    
+    
+    
+}
+#m1:hover , #m2:hover, #m3:hover{
+    background-color: lightgray;
+}
+a{
+    padding:10px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+body
+{
+    background-image: url("images/film.jpg");
+    background-repeat: no-repeat;
+    background-size: 120%;
+    color: whitesmoke;
+    font-family: sans-serif;
+    
+}
+
+iframe{
+    padding: 30px;
+    
+}
+div {
+    position: center;
+    margin-left:25%;
+    margin-top: 10%;
+   
+}
+
+h1{
+    font-family:'Courier New';
+    color: snow;
+    font-size: 50px;
+    text-align: center;
+}
+h3{
+    color: darkgray;
+    
+}
+
+img{
+    padding: 10px;
+}
+
+/*figure{
+    position: sticky;
+   
+}*/
+/*#loc, #info{
+    margin: auto;
+}*/
+
+table{
+    border: 1px solid lightgrey;
+    text-align: center;
+    padding: 20px;
+    
+
+}
+#tab{
+    display: flex;
+}
+
+
+#info{
+   
+    float: left;
+    margin: 20px;
+}
+
+form{
+    display: block;
+    padding: 50px;
+}
